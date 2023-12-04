@@ -1,0 +1,19 @@
+{
+    "name": "alumne/repo_php_prova",
+    "description": ".",
+    "type": "project",
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "authors": [
+        {
+            "name": "OriolMarine",
+            "email": "omarine@iesebre.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
